@@ -13,10 +13,9 @@ This data analysis project aims to provide insights into the gambling game Crazy
 
 
   * **Origin:** https://casinoscores.com/crazy-time/
-  * **Collection Method:** Web scraping .json files.
+  * **Collection Method:** Web scraping .json files, with Python Selenium package.
   
-  #### Methodology
-  * **Tool:** Python with selenium package
+ 
   * **Collection Dates:**
     - 2024-12-01T10:22:57.476Z to 2024-12-06T15:05:11.980Z
     - 2024-12-17T19:17:15.991Z to 2024-12-19T15:14:06.419Z
@@ -26,5 +25,6 @@ This data analysis project aims to provide insights into the gambling game Crazy
   * **Clean data:** CleanData.csv  
 
 ### Tools
-- **Python :** Data collection, data cleaning, data analysis and data visualisation.
-- **DB Browser for SQlite :** Data storage, data cleaning, data analysis and data visualisation.
+- **Python :** Data collection,data storage, data cleaning, data analysis and data visualisation.
+   * **Packages:**
+- **DB Browser for SQlite :** Data analysis and data visualisation.
