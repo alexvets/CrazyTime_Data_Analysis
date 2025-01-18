@@ -67,6 +67,6 @@ See all possible betting strategies in the Strategies folder.
 
 
 ### Future plans:
-    1. Collect data for at least one month.
-    2. Calculate again the strategies, but with different ammount of betting on each possible result, and of course with more data. This will be deduced by doing some optimization.
-    3. Try to make predictions when the game will give some money back.  
+1. Collect data for at least one month.
+2. Calculate again the strategies, but with different ammount of betting on each possible result, and of course with more data. This will be deduced by doing some optimization.
+3. Try to make predictions when a huge multiplier is gonna happen.
