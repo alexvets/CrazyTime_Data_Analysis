@@ -2,7 +2,7 @@
 
 ### Project Overview
 
-This data analysis project aims to provide insights into the gambling game CrazyTime. By analyzing the data:
+This end-to-end data analysis project aims to provide insights into the gambling game CrazyTime. By analyzing the data:
 * We seek to find patterns in the number of players during the day.
 * What time of the day should a gambler play?
 * What are the best positions in  the CashHunt table, that a gambler should choose?
