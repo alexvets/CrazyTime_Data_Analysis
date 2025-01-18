@@ -46,7 +46,7 @@ EDA involved exploring the CleanData.csv file to answer questions,such as:
 - What time of the day should a gambler play?
 - What are the best positions in  the CashHunt table, that a gambler should choose?
 - What are the best betting strategies?
-- If the owner of the game wins on average.
+- If the owner of the game has profit on average.
 
 ### Data Analysis
 
