@@ -3,11 +3,11 @@
 ### Project Overview
 
 This data analysis project aims to provide insights into the gambling game CrazyTime. By analyzing the data:
-* We seek to find pattern in the number of players during the day
-* What time of the day should a gambler play
+* We seek to find patterns in the number of players during the day.
+* What time of the day should a gambler play?
 * What are the best positions in  the CashHunt table, that a gambler should choose?
-* Make data-driven recommendations on what betting strategy should a gambler follow
-* Realize that on average the owner of the game wins
+* Make data-driven recommendations on what betting strategy should a gambler follow.
+* Realize that on average the owner of the game has profit.
 
 
 ### Data Sources
