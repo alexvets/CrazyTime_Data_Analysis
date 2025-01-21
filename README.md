@@ -54,7 +54,7 @@ EDA involved exploring the CleanData.csv file to answer questions,such as:
 The analysis results are summarized as follows:
 
 1. One can see that there is great traffic between 14:30 - 17:30 GMT and low traffic during midnight hours. See NumberOfPlayers_plot.png .
-2. Assuming that on average a gambler plays for 2 hours continuously, a suitable 2-hour session is during 8:35-10:35 GMT, when average multiplier is 8.4 . That means, if a gambler bets 1€ to each one of 8 possible results, the gambler on average will have 0.4€ profit for every result in this two hour period. On the other hand, between 12:00 and 16:00 definitely should not a gambler play, because on average the multiplier is very low. See 2-hour_Sessions.png.
+2. Assuming that on average a gambler plays for 2 hours continuously, a suitable 2-hour session is during 8:35-10:35 GMT, when average multiplier is 8.4 . That means, if a gambler bets 1€ to each one of 8 possible results, the gambler on average will have 0.4€ profit for every result in this two hour period. On the other hand, between 12:00 and 16:00 GMT a gambler definitely should not play, because on average the multiplier is very low. See 2-hour_Sessions.png.
 3. We recommend positions (1,3) and (9,3) in CashHunt Table, because on average have the biggest multiplier. See CashHunt_Table_HeatMap.png.
 4. On every possible result, we bet 1€. The top 5 strategies are :
    - Bet only CashHunt. Suppose that a result is CashHunt. The probability in the next 8 results the result is CashHunt, with multiplier at least 8, is 0.54.
